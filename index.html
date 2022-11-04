@@ -43,7 +43,7 @@
 <h3> Even smaller </h3>
 
 <footer>
-       <p> visit my github to share this template! </p>
+       <p> visit my github to share this template! <br> https://github.com/mckeont/GeoTag </p> 
 </footer>
 
     <div id="map" style=" position: fixed; right: 0; left: 300px; top: 0; bottom: 0 "></div>
@@ -75,7 +75,6 @@
         }).bindPopup(function (layer) {
        return "" + layer.feature.properties.name
     }).addTo(map).bringToBack();
-
 
 // Make a simple circle
 var circle = L.circle([39.983219999796114, -75.15256557830536], {
