@@ -1,3 +1,3 @@
 # GeoTag November 4th 2022
- 
-Link to interactive map: https://mckeont.github.io/GeoTag/
+A simple tutorial for making an interactive map.
+Link to demo: https://mckeont.github.io/GeoTag/
